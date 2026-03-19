@@ -1,0 +1,477 @@
+{
+  "destaque": {
+    "id": 1,
+    "titulo": "Cordially: Origens",
+    "descricao": "Uma jornada épica pelos confins do universo onde nada é o que parece ser. Prepare-se para a maior aventura de todos os tempos. Quando forças misteriosas ameaçam destruir tudo que conhecemos, um grupo improvável de heróis precisa unir suas forças.",
+    "capa_banner": "https://image.tmdb.org/t/p/original/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+    "capa_card": "https://image.tmdb.org/t/p/w500/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+    "video": "",
+    "ano": 2024,
+    "duracao": "2h 12min",
+    "classificacao": "16+",
+    "generos": [
+      "Ficção Científica",
+      "Aventura"
+    ],
+    "tipo": "filme"
+  },
+  "categorias": [
+    {
+      "nome": "Em Alta Agora",
+      "filmes": [
+        {
+          "id": 2,
+          "titulo": "Sombras do Passado",
+          "descricao": "Um thriller psicológico intenso que vai te deixar sem fôlego do início ao fim.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "1h 58min",
+          "classificacao": "14+",
+          "generos": [
+            "Thriller",
+            "Suspense"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 3,
+          "titulo": "Luz do Norte",
+          "descricao": "Uma história de amor e sobrevivência no Ártico congelante.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7INGKK6comjl.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "1h 45min",
+          "classificacao": "12+",
+          "generos": [
+            "Drama",
+            "Romance"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 4,
+          "titulo": "Código Vermelho",
+          "descricao": "Quando um vírus digital ameaça destruir a internet global, uma equipe de hackers precisa salvar o mundo.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDhRDpZFHSPjCNq.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "2h 05min",
+          "classificacao": "16+",
+          "generos": [
+            "Ação",
+            "Ficção Científica"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 5,
+          "titulo": "O Último Refúgio",
+          "descricao": "Em um mundo pós-apocalíptico, os últimos sobreviventes buscam esperança.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "1h 52min",
+          "classificacao": "16+",
+          "generos": [
+            "Drama",
+            "Ficção Científica"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 6,
+          "titulo": "Noite Eterna",
+          "descricao": "Uma cidade mergulhada na escuridão perpétua esconde segredos terríveis.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDV4jC1kicTSR2U.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "1h 38min",
+          "classificacao": "18+",
+          "generos": [
+            "Terror",
+            "Suspense"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 7,
+          "titulo": "Horizontes Perdidos",
+          "descricao": "Uma expedição científica descobre uma civilização perdida no fundo do oceano.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxDXf.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "2h 20min",
+          "classificacao": "12+",
+          "generos": [
+            "Aventura",
+            "Ficção Científica"
+          ],
+          "tipo": "filme"
+        }
+      ]
+    },
+    {
+      "nome": "Séries Populares",
+      "filmes": [
+        {
+          "id": 8,
+          "titulo": "A Conspiração",
+          "descricao": "Uma série que revela os segredos mais obscuros do poder político.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "8 Episódios",
+          "classificacao": "16+",
+          "generos": [
+            "Drama",
+            "Suspense"
+          ],
+          "tipo": "serie"
+        },
+        {
+          "id": 9,
+          "titulo": "Destino Cruzado",
+          "descricao": "Duas famílias cujos destinos estão entrelaçados há gerações.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "10 Episódios",
+          "classificacao": "14+",
+          "generos": [
+            "Drama"
+          ],
+          "tipo": "serie"
+        },
+        {
+          "id": 10,
+          "titulo": "Cyber Wars",
+          "descricao": "No futuro, a guerra é travada no mundo virtual.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "12 Episódios",
+          "classificacao": "16+",
+          "generos": [
+            "Ficção Científica",
+            "Ação"
+          ],
+          "tipo": "serie"
+        },
+        {
+          "id": 11,
+          "titulo": "Vozes do Silêncio",
+          "descricao": "Uma detetive surda resolve crimes que ninguém mais consegue.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "6 Episódios",
+          "classificacao": "14+",
+          "generos": [
+            "Crime",
+            "Drama"
+          ],
+          "tipo": "serie"
+        },
+        {
+          "id": 12,
+          "titulo": "Reinos Esquecidos",
+          "descricao": "Uma saga épica de fantasia medieval com dragões e magia.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "10 Episódios",
+          "classificacao": "16+",
+          "generos": [
+            "Fantasia",
+            "Aventura"
+          ],
+          "tipo": "serie"
+        },
+        {
+          "id": 13,
+          "titulo": "Mentiras Perfeitas",
+          "descricao": "Cada episódio revela uma nova camada de engano.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "8 Episódios",
+          "classificacao": "14+",
+          "generos": [
+            "Thriller",
+            "Drama"
+          ],
+          "tipo": "serie"
+        }
+      ]
+    },
+    {
+      "nome": "Animes",
+      "filmes": [
+        {
+          "id": 14,
+          "titulo": "Espírito de Luta",
+          "descricao": "Um jovem guerreiro busca vingança e redenção em um mundo de artes marciais.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WyGBBfb0GX7F.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "24 Episódios",
+          "classificacao": "14+",
+          "generos": [
+            "Ação",
+            "Aventura"
+          ],
+          "tipo": "anime"
+        },
+        {
+          "id": 15,
+          "titulo": "Alma de Aço",
+          "descricao": "Em um futuro distante, humanos e máquinas lutam lado a lado.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/nJUHX3XL1jMkk8honUZnUmudFb9.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "12 Episódios",
+          "classificacao": "16+",
+          "generos": [
+            "Ficção Científica",
+            "Ação"
+          ],
+          "tipo": "anime"
+        },
+        {
+          "id": 16,
+          "titulo": "Sakura no Kaze",
+          "descricao": "Uma história de amor que transcende o tempo no Japão feudal.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/6FfCtHuJJSHJaqdT0gnqSgGdx5a.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "13 Episódios",
+          "classificacao": "12+",
+          "generos": [
+            "Romance",
+            "Fantasia"
+          ],
+          "tipo": "anime"
+        },
+        {
+          "id": 17,
+          "titulo": "Dragão Celestial",
+          "descricao": "Um épico de fantasia com batalhas espetaculares e poderes sobrenaturais.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYrSMq.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "26 Episódios",
+          "classificacao": "14+",
+          "generos": [
+            "Ação",
+            "Fantasia"
+          ],
+          "tipo": "anime"
+        },
+        {
+          "id": 18,
+          "titulo": "Nexus Online",
+          "descricao": "Presos em um jogo virtual, jogadores lutam para sobreviver e encontrar a saída.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "24 Episódios",
+          "classificacao": "12+",
+          "generos": [
+            "Ficção Científica",
+            "Aventura"
+          ],
+          "tipo": "anime"
+        },
+        {
+          "id": 19,
+          "titulo": "Sombras de Tóquio",
+          "descricao": "Na Tóquio noturna, um detetive sobrenatural caça demônios.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/cSYLX73WSkxCgvpN3MtRkYR2Eo.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "12 Episódios",
+          "classificacao": "16+",
+          "generos": [
+            "Ação",
+            "Sobrenatural"
+          ],
+          "tipo": "anime"
+        }
+      ]
+    },
+    {
+      "nome": "Ação e Aventura",
+      "filmes": [
+        {
+          "id": 20,
+          "titulo": "Fúria Implacável",
+          "descricao": "Um ex-agente secreto é forçado a voltar à ação para salvar sua família.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/5gzzkR7y3qqY8hKAOSfJZlMIda3.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "2h 01min",
+          "classificacao": "16+",
+          "generos": [
+            "Ação"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 21,
+          "titulo": "Corrida Mortal",
+          "descricao": "Pilotos competem em corridas ilegais onde a velocidade é tudo.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "1h 50min",
+          "classificacao": "14+",
+          "generos": [
+            "Ação",
+            "Aventura"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 22,
+          "titulo": "Operação Tempestade",
+          "descricao": "Uma missão impossível em território inimigo durante uma tempestade.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/vDJ2lJTqWYr18Gmc0OaWsqFOPGf.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "2h 15min",
+          "classificacao": "16+",
+          "generos": [
+            "Ação",
+            "Guerra"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 23,
+          "titulo": "Caçadores de Relíquias",
+          "descricao": "Uma equipe de arqueólogos aventureiros busca artefatos lendários.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "1h 55min",
+          "classificacao": "12+",
+          "generos": [
+            "Aventura",
+            "Ação"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 24,
+          "titulo": "Força Bruta",
+          "descricao": "Lutadores de elite competem em um torneio clandestino mortal.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/bdeGzxyaDVehGFXUIV5qUzd3Y0K.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "1h 48min",
+          "classificacao": "18+",
+          "generos": [
+            "Ação"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 25,
+          "titulo": "Selva de Pedra",
+          "descricao": "Sobrevivência urbana em uma metrópole tomada pelo caos.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "2h 10min",
+          "classificacao": "16+",
+          "generos": [
+            "Ação",
+            "Thriller"
+          ],
+          "tipo": "filme"
+        }
+      ]
+    },
+    {
+      "nome": "Documentários",
+      "filmes": [
+        {
+          "id": 26,
+          "titulo": "Planeta Vivo",
+          "descricao": "Uma jornada visual deslumbrante pela vida selvagem do nosso planeta.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/z8TvnEVRenMSTemxYZwLGqFofgF.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "1h 40min",
+          "classificacao": "L",
+          "generos": [
+            "Documentário",
+            "Natureza"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 27,
+          "titulo": "Dentro da Mente",
+          "descricao": "Explorando os mistérios do cérebro humano com tecnologia de ponta.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "1h 35min",
+          "classificacao": "L",
+          "generos": [
+            "Documentário",
+            "Ciência"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 28,
+          "titulo": "Oceanos Profundos",
+          "descricao": "Mergulhe nas profundezas inexploradas dos oceanos.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "1h 30min",
+          "classificacao": "L",
+          "generos": [
+            "Documentário",
+            "Natureza"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 29,
+          "titulo": "Cidades do Futuro",
+          "descricao": "Como a tecnologia está transformando as cidades ao redor do mundo.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+          "video": "",
+          "ano": 2024,
+          "duracao": "1h 45min",
+          "classificacao": "L",
+          "generos": [
+            "Documentário",
+            "Tecnologia"
+          ],
+          "tipo": "filme"
+        },
+        {
+          "id": 30,
+          "titulo": "Raízes da Humanidade",
+          "descricao": "Uma viagem pela história das civilizações antigas.",
+          "capa_card": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+          "video": "",
+          "ano": 2023,
+          "duracao": "2h 00min",
+          "classificacao": "L",
+          "generos": [
+            "Documentário",
+            "História"
+          ],
+          "tipo": "filme"
+        }
+      ]
+    }
+  ]
+}
