@@ -36,16 +36,16 @@
         },
         {
           "id": 3,
-          "titulo": "Luz do Norte",
-          "descricao": "Uma história de amor e sobrevivência no Ártico congelante.",
-          "capa_card": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7INGKK6comjl.jpg",
-          "video": "",
-          "ano": 2024,
-          "duracao": "1h 45min",
-          "classificacao": "12+",
+          "titulo": "Wonka",
+          "descricao": "Antes de se tornar o dono da maior fábrica de chocolate do mundo, o jovem Willy Wonka, cheio de ideias e determinação, embarca em uma aventura para espalhar alegria através de suas criações. Enfrentando inúmeros obstáculos e oposição, ele conhece os fiéis assistentes Oompa-Loompas, que o ajudam a superar todas as probabilidades. Wonka descobre que as melhores coisas da vida começam com um sonho.",
+          "capa_card": "https://painel.lojavirus.com.br/uploads/wonka_4_3b664aa023.png",
+          "video": "https://drive.google.com/file/d/10sZD_JawEHGwT9l6rWSGkf12nPsUAoV4/view",
+          "ano": 2023,
+          "duracao": "1h 56min",
+          "classificacao": "10+",
           "generos": [
-            "Drama",
-            "Romance"
+            "Infantil",
+            "Fantasia"
           ],
           "tipo": "filme"
         },
